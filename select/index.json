@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おしえてかみさま",
+  "base_artist": "理芽",
+  "createdAt": "2026-03-20T13:49:10.928705Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おしえてかみさま",
+      "artist": "理芽",
+      "has_synced": false,
+      "path": "select/pl_01_おしえてかみさま_理芽.txt"
+    }
+  ]
+}
